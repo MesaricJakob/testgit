@@ -6,5 +6,6 @@ public class Hello
 	{
 	  System.Console.WriteLine("Hello, World!");
 	  System.Console.WriteLine("Hello, Local!");
+	  System.Console.WriteLine("Hello, Github!");
 	}
 }
